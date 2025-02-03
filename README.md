@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PranavD10
+- 👋 Hi, I’m @LeviCoder
 - 👀 I’m interested in IOT technologies
 - 🌱 I’m currently working on Embedded Linux using C/C++
 - 💞️ I’m looking to collaborate on open source projects, IOT technologies and system design.
